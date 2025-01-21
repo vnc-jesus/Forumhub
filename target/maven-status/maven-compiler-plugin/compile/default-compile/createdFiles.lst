@@ -1,0 +1,7 @@
+br\com\forumhub\forumhub\ForumhubApplication.class
+br\com\forumhub\forumhub\entity\Topico.class
+br\com\forumhub\forumhub\repository\TopicoRepositorio.class
+br\com\forumhub\forumhub\service\TopicoServico.class
+br\com\forumhub\forumhub\dto\TopicoDTO.class
+br\com\forumhub\forumhub\controller\TopicoControlador.class
+br\com\forumhub\forumhub\config\SegurancaConfig.class

@@ -1,0 +1,4 @@
+-------------------------------------------------------------------------------
+Test set: br.com.forumhub.forumhub.ForumhubApplicationTests
+-------------------------------------------------------------------------------
+Tests run: 1, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 14.71 s -- in br.com.forumhub.forumhub.ForumhubApplicationTests
